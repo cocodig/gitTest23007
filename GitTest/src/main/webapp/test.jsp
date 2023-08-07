@@ -7,6 +7,6 @@
 <title>test.jsp</title>
 </head>
 <body>
-<h1>test.jsp 수정</h1>
+<h1>test.jsp 수정ㅋㅋ</h1>
 </body>
 </html>
